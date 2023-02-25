@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Billing = () => {
-  return <div>Billingggg</div>;
+  return <div>Billidfdfdngggg</div>;
 }
 
 export default Billing
