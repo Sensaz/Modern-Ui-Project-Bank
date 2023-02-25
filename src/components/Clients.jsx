@@ -1,9 +1,7 @@
 import React from 'react'
 
 const Clients = () => {
-  return (
-    <div>Clients</div>
-  )
+  return <div>Clisssents</div>;
 }
 
 export default Clients
