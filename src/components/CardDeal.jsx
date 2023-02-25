@@ -1,9 +1,7 @@
 import React from 'react'
 
 const CardDeal = () => {
-  return (
-    <div>CardDeal</div>
-  )
+  return <div>CardDddeal</div>;
 }
 
 export default CardDeal
